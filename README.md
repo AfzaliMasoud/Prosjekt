@@ -1,2 +1,0 @@
-# Prosjekt
-For prosjekt osv.
